@@ -1,6 +1,8 @@
 # Python Codes
 
+## About
 A collection of small Python programs, experiments, and practice scripts across multiple topics—algorithms, math, strings, OOP concepts, utilities, games, and a few electronics/visual demos.
+
 
 ## What’s inside
 
