@@ -1,6 +1,5 @@
 # Python Codes
 
-## About
 A collection of small Python programs, experiments, and practice scripts across multiple topics, including **Algorithms (graphs/problems)**, **Math (numbers & patterns)**, **Strings (text algorithms)**, **OOP (inheritance/polymorphism)**, **Utilities (language features)**, **Games (coding challenges)**, and a few **Electronics/visual demos**.
 
 
@@ -16,12 +15,4 @@ A collection of small Python programs, experiments, and practice scripts across 
 - `oop/` — Object-oriented programming examples (inheritance, polymorphism, etc.).
 - `strings/` — String algorithms and text-processing exercises.
 - `utils/` — General-purpose Python examples and language features.
-
-## Highlights
-
-- `electronics/fft.py` — Fast Fourier Transform (FFT) example.
-
-## Tags
-
-`python`, `algorithms`, `data-structures`, `graph`, `math`, `numbers`, `strings`, `oop`, `inheritance`, `polymorphism`, `education`, `practice`, `examples`, `demos`, `electronics`.
 
