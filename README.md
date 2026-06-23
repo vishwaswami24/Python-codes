@@ -1,13 +1,24 @@
 # Python Codes
 
-A collection of small Python programs and experiments.
+A collection of small Python programs, experiments, and practice scripts across multiple topics—algorithms, math, strings, OOP concepts, utilities, games, and a few electronics/visual demos.
 
-## Electronics
+## What’s inside
 
-Signal-processing and engineering related scripts live in [`electronics/`](./electronics).
+- `algorithms/` — Graph-related problems and algorithm challenge scripts.
+- `demos/` — Small visual/HTML demos (e.g., rainbow patterns).
+- `electronics/` — Signal-processing/engineering related code (e.g., FFT).
+- `files/` — Examples involving files and basic I/O.
+- `games/` — Simple game-style coding challenges.
+- `math/` — Math utilities and number pattern problems.
+- `oop/` — Object-oriented programming examples (inheritance, polymorphism, etc.).
+- `strings/` — String algorithms and text-processing exercises.
+- `utils/` — General-purpose Python examples and language features.
 
-## FFT
+## Highlights
 
 - `electronics/fft.py` — Fast Fourier Transform (FFT) example.
 
+## Tags
+
+`python`, `algorithms`, `data-structures`, `graph`, `math`, `numbers`, `strings`, `oop`, `inheritance`, `polymorphism`, `education`, `practice`, `examples`, `demos`, `electronics`.
 
