@@ -1,12 +1,13 @@
 # Python Codes
 
-Collection of small Python programs and experiments.
+A collection of small Python programs and experiments.
 
 ## Electronics
 
-See `electronics/` for signal-processing and engineering related scripts.
+Signal-processing and engineering related scripts live in [`electronics/`](./electronics).
 
 ## FFT
 
-- `electronics/fft.py` (moved from `FFT.py`)
+- `electronics/fft.py` — Fast Fourier Transform (FFT) example.
+
 
